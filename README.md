@@ -1,9 +1,9 @@
-# Welcome to Nigga Dick Butt 
+# Welcome to BootStrapperV2 
 
 * Credits to Quivings (Solara Developer)
 
-* what is nigga duck butt?
+* what is BootStrapperV2?
 
-* Nigga dick butt is a custom solara bootstrapper that is completely open source to the community for saftey
+* BootStrapperV2 is a custom solara bootstrapper that is completely open source to the community for saftey
 
 * Dm Adulting. on discord for more information if needed
