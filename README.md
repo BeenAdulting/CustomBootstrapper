@@ -1,7 +1,7 @@
-# Welcome to BootStrapperV2 
+# Welcome to Moonstrapper
 
-* what is BootStrapperV2?
+* what is Moonstrapper?
 
-* BootStrapperV2 is a custom bootstrapper for a few Useful features roblox users might possibly need that is completely open source to the community for saftey
+* BootStrapperV2 is a custom bootstrapper for a few Useful Aplications roblox users might possibly need that is completely open source to the community for saftey
 
 * Dm Adulting. on discord for more information if needed
